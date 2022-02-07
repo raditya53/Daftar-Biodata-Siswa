@@ -7,4 +7,4 @@ Daftar biodata Siswa Dicoding Academy
 - Angkatan 2020
 - Angkatan 2021
 
-ini adalah file yang berada di devvelopment
+ini adalah file yang berada di development
